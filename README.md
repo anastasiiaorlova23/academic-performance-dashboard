@@ -94,22 +94,24 @@ Measures were designed to behave correctly under different filter contexts and v
 The report contains five analytical pages:
 
 ### Academic Performance Overview
+![Academic Performance Overview](images/Academic_Performance_Overview.png)
 
 High-level overview of academic performance with KPI cards, subject and class comparisons, grade trends, assessment-type distribution, and interactive filtering.
 
 ### Class Performance
-
+![Class Performance](images/Class_Performance.png)
 Class-level performance analysis including assessment-specific averages, grade counts by class, negative grades by assessment type, negative grade percentage, month-over-month performance change, and slicers for `grade_type`, `academic_year`, and `department_hint`.
 
-### Class Details
-
+### Class Details (Drill-through)
+![Class Details](images/Class_Details.png)
 A dedicated **drill-through** page for student-level analysis, showing class and student performance across overall and assessment-specific grade measures.
 
-### MoM%_AG_details
+### MoM%_AG_details (Report Tooltip)
+<img src="images/MoM_AG_Details.png" alt="MoM AG Details tooltip" width="400">
 
-A dedicated **report tooltip page** providing monthly details for Previous Grade, Average Grade, and `MoM_AG%`.
 
 ### Analytics & Time Intelligence
+![Analytics & Time Intelligence](images/Analytics_and_Time_Intelligence.png)
 
 Advanced analysis of academic performance over time, including:
 
